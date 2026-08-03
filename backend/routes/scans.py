@@ -1,5 +1,4 @@
 """
-©AngelaMos | 2025
 Scan routes - create, retrieve, and manage security scans
 """
 
