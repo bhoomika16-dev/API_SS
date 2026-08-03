@@ -1,5 +1,4 @@
 """
-ⒸAngelaMos | 2025
 Database models package
 """
 
