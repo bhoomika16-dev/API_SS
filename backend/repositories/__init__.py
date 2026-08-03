@@ -1,5 +1,4 @@
 """
-ⒸAngelaMos | 2025
 Database repository layer for data access operations
 """
 
