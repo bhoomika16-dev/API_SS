@@ -1,5 +1,4 @@
 """
-ⒸAngelaMos | 2025
 Base model class
 Common fields and methods for all models
 """
