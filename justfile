@@ -1,6 +1,3 @@
-# API Security Scanner - Development Commands
-# AngelaMos | 2025
-
 set dotenv-load
 set export
 set shell := ["bash", "-uc"]
