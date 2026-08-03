@@ -1,5 +1,4 @@
 """
-ⒸAngelaMos | 2025
 Handles all Scan model database queries
 """
 
